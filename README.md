@@ -75,6 +75,7 @@ This project is heavily inspired by [kuoruan/openwrt-v2ray](https://github.com/k
 - [PeDitXRT](https://github.com/peditx/peditxrt)
 - [OpenWrt](https://github.com/openwrt)
 - [ImmortalWrt](https://github.com/immortalwrt)
+- [Mohamadreza Broujerdi](https://t.me/MR13_B)
 
 
 
