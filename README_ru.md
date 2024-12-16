@@ -71,7 +71,8 @@
 - [PeDitX](https://github.com/peditx)  
 - [PeDitXRT](https://github.com/peditx/peditxrt)  
 - [OpenWrt](https://github.com/openwrt)  
-- [ImmortalWrt](https://github.com/immortalwrt)  
+- [ImmortalWrt](https://github.com/immortalwrt)
+- [Mohamadreza Broujerdi](https://t.me/MR13_B)  
 
 © 2018–2024 PeDitX. Все права защищены.  
 Для поддержки или вопросов присоединяйтесь к нашему [Telegram](https://t.me/peditx).
