@@ -72,7 +72,9 @@
 - [PeDitXRT](https://github.com/peditx/peditxrt)  
 - [OpenWrt](https://github.com/openwrt)  
 - [ImmortalWrt](https://github.com/immortalwrt)
-- [Mohamadreza Broujerdi](https://t.me/MR13_B)  
+- [Mohamadreza Broujerdi](https://t.me/MR13_B)
+- [Sia7ash](https://github.com/Sia7ash)
+
 
 © 2018–2024 PeDitX. 保留所有权利。  
 如需支持或有任何问题，请加入我们的 [Telegram](https://t.me/peditx)。
