@@ -76,6 +76,7 @@ This project is heavily inspired by [kuoruan/openwrt-v2ray](https://github.com/k
 - [OpenWrt](https://github.com/openwrt)
 - [ImmortalWrt](https://github.com/immortalwrt)
 - [Mohamadreza Broujerdi](https://t.me/MR13_B)
+- [Sia7ash](https://github.com/Sia7ash)
 
 
 
